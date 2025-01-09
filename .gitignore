@@ -1,0 +1,32 @@
+# Ignore Obsidian workspace settings
+.obsidian/workspace
+
+# Ignore Obsidian cache
+.obsidian/cache
+
+# Ignore Obsidian plugins
+.obsidian/plugins
+
+# Ignore Obsidian themes
+.obsidian/themes
+
+# to exclude workspace cache specific to mobile devices
+.obsidian/workspace-mobile.json
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore backup files
+*.bak
+*.tmp
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.swp
+*.swo
+*.tmp
+.trash/
+.DS_Store

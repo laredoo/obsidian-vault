@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0713d1b3e11b4781",
+            "id": "a35ffde6a5257822",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "ufmg-vault/Computação e Sociedade/Computação e Sociedade.md",
-                "bFile": "ufmg-vault/Computação e Sociedade/Computação e Sociedade.md",
+                "aFile": "exch-program-vault/Université libre de Bruxelles - French Summer Course/Motivation Letter/v1.md",
+                "bFile": "exch-program-vault/Université libre de Bruxelles - French Summer Course/Motivation Letter/v1.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Computação e Sociedade"
-            }
-          },
-          {
-            "id": "a35ffde6a5257822",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "exch-program-vault/Université libre de Bruxelles - French Summer Course/Motivation Letter/v1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "v1"
+              "title": "Diff: v1"
             }
           }
         ]
@@ -187,13 +173,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0713d1b3e11b4781",
+  "active": "a35ffde6a5257822",
   "lastOpenFiles": [
-    "ufmg-vault/Computação e Sociedade/Computação e Sociedade.md",
     "exch-program-vault/Université libre de Bruxelles - French Summer Course/Motivation Letter/v1.md",
-    "Readme.md",
     "exch-program-vault/Université libre de Bruxelles - French Summer Course/Motivation Letter/v2.md",
     "exch-program-vault/Université libre de Bruxelles - French Summer Course/Motivation letter.md",
-    "exch-program-vault/Université libre de Bruxelles - French Summer Course/Université libre de Bruxelles - French Summer Course.md"
+    "exch-program-vault/Université libre de Bruxelles - French Summer Course/Université libre de Bruxelles - French Summer Course.md",
+    "ufmg-vault/Computação e Sociedade/Computação e Sociedade.md",
+    "Readme.md"
   ]
 }

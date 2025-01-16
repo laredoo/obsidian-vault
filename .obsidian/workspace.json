@@ -11,14 +11,28 @@
             "id": "0713d1b3e11b4781",
             "type": "leaf",
             "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "ufmg-vault/Computação e Sociedade/Computação e Sociedade.md",
+                "bFile": "ufmg-vault/Computação e Sociedade/Computação e Sociedade.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Computação e Sociedade"
+            }
+          },
+          {
+            "id": "a35ffde6a5257822",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "exch-program-vault/Université libre de Bruxelles - French Summer Course/Motivation letter.md",
+                "file": "exch-program-vault/Université libre de Bruxelles - French Summer Course/Motivation Letter/v1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Motivation letter"
+              "title": "v1"
             }
           }
         ]
@@ -144,13 +158,23 @@
               "icon": "lucide-list",
               "title": "Outline of Readme"
             }
+          },
+          {
+            "id": "037ee2668f1a2cb0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,11 +183,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "0713d1b3e11b4781",
   "lastOpenFiles": [
-    "Readme.md"
+    "ufmg-vault/Computação e Sociedade/Computação e Sociedade.md",
+    "exch-program-vault/Université libre de Bruxelles - French Summer Course/Motivation Letter/v1.md",
+    "Readme.md",
+    "exch-program-vault/Université libre de Bruxelles - French Summer Course/Motivation Letter/v2.md",
+    "exch-program-vault/Université libre de Bruxelles - French Summer Course/Motivation letter.md",
+    "exch-program-vault/Université libre de Bruxelles - French Summer Course/Université libre de Bruxelles - French Summer Course.md"
   ]
 }

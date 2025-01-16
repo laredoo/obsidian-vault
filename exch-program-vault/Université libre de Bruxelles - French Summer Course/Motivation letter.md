@@ -26,5 +26,3 @@ In this section the focus is literally to brainstorm "***french aspects of my li
 [[v1]]
 
 [[v2]]
-
-HAHAHAHAHAH

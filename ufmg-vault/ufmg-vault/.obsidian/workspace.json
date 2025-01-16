@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "ff9e193be16e013b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a904075e84154209",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86abb045770a6d6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gatsby Bridging Programme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gatsby Bridging Programme"
+            }
+          },
+          {
+            "id": "5b79873c3039de83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gatsby Bridging Programme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gatsby Bridging Programme"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "946e7142f0c8664a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6f69ddc6f73b78d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b0c36965fba2173",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "da3caae8164ac0c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "609941dba82e8915",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4307716efabd44d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5166b25308e924bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac8b852827bf6ce2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computação e Sociedade/Análise Crítica do Currículo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Análise Crítica do Currículo"
+            }
+          },
+          {
+            "id": "e45187130764e96e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computação e Sociedade/Análise Crítica do Currículo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Análise Crítica do Currículo"
+            }
+          },
+          {
+            "id": "9a165eff3205c105",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a1dcdcf1c128dff8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computação e Sociedade/Análise Crítica do Currículo.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Análise Crítica do Currículo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5b0c36965fba2173",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Gatsby Bridging Programme.md",
+    "Tese/Tópicos a ser tratados.md",
+    "Tese",
+    "Workshop CV Internacional/Pasted image 20250115200401.png",
+    "Workshop CV Internacional/Workshop.md",
+    "Workshop CV Internacional/Pasted image 20250115202028.png",
+    "Workshop CV Internacional/Pasted image 20250115201438.png",
+    "Workshop CV Internacional/Pasted image 20250115201307.png",
+    "Workshop CV Internacional/Pasted image 20250115201054.png",
+    "Workshop CV Internacional/Pasted image 20250115200753.png",
+    "Workshop CV Internacional/Pasted image 20250115200721.png",
+    "Workshop CV Internacional/Pasted image 20250115200716.png",
+    "Workshop CV Internacional/Pasted image 20250115200516.png",
+    "Computação e Sociedade/Análise Crítica do Currículo.md",
+    "Workshop CV Internacional",
+    "Computação e Sociedade/Computação e Sociedade.md",
+    "Computação e Sociedade/Resenha - Capítulo do Livro Computação e Sociedade.md",
+    "Computação e Sociedade/Resenha - Is Computer Science Science.md",
+    "Computação e Sociedade/Resenha - The end of Programming.md",
+    "Hub.md",
+    "Ética na Computação/Ética na Computação.md",
+    "2025-01-11.md",
+    "Untitled.canvas",
+    "Ética na Computação",
+    "Computação e Sociedade.md",
+    "Computação e Sociedade"
+  ]
+}

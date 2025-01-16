@@ -30,3 +30,13 @@ Thumbs.db
 *.tmp
 .trash/
 .DS_Store
+
+.obsidian/*
+
+*.json
+
+*.js
+
+*.sh
+
+*.css

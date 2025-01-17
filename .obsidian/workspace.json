@@ -95,14 +95,10 @@
             "id": "c1f35cf107fb422c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "exch-program-vault/Home.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Home"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -178,7 +174,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exch-program-vault/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +183,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks"
             }
           },
           {
@@ -197,12 +192,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exch-program-vault/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links"
             }
           },
           {
@@ -258,8 +252,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2bad1a805beaf6a3",
+  "active": "c1f35cf107fb422c",
   "lastOpenFiles": [
+    "exch-program-vault/Home.md",
     "ufmg-vault/Home.md",
     "ufmg-vault/Tese/Tese.md",
     "ufmg-vault/Tese/Tópicos a ser tratados.md",
@@ -275,7 +270,6 @@
     "exch-program-vault/Gatsby Bridging Programme/Motivation Statement/Brainstorming/Untitled.md",
     "exch-program-vault/Gatsby Bridging Programme/Motivation Statement/Brainstorming",
     "exch-program-vault/Gatsby Bridging Programme/Motivation Statement",
-    "exch-program-vault/Home.md",
     "exch-program-vault/Université libre de Bruxelles - French Summer Course/Motivation Letter/v2.md",
     "exch-program-vault/Université libre de Bruxelles - French Summer Course/Motivation letter.md",
     "exch-program-vault/Université libre de Bruxelles - French Summer Course/Université libre de Bruxelles - French Summer Course.md",

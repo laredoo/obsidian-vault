@@ -83,16 +83,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ufmg-vault/Cloud Computing/Video Assigment.md",
+                "file": "ufmg-vault/Tese/Tópicos a ser tratados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Video Assigment"
+              "title": "Tópicos a ser tratados"
+            }
+          },
+          {
+            "id": "c1f35cf107fb422c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "exch-program-vault/Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -164,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ufmg-vault/Cloud Computing/Video Assigment.md",
+                "file": "exch-program-vault/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Video Assigment"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -183,12 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ufmg-vault/Cloud Computing/Video Assigment.md",
+                "file": "exch-program-vault/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Video Assigment"
+              "title": "Outgoing links from Home"
             }
           },
           {
@@ -244,11 +258,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "60333fbe29e1678d",
+  "active": "2bad1a805beaf6a3",
   "lastOpenFiles": [
-    "ufmg-vault/Cloud Computing/Cloud Computing.md",
     "ufmg-vault/Home.md",
+    "ufmg-vault/Tese/Tese.md",
+    "ufmg-vault/Tese/Tópicos a ser tratados.md",
+    "ufmg-vault/Workshop CV Internacional/Workshop.md",
+    "ufmg-vault/Gatsby Bridging Programme.md",
+    "exch-program-vault/Gatsby Bridging Programme/Gatsby Bridging Programme.md",
     "ufmg-vault/Cloud Computing/Video Assigment.md",
+    "ufmg-vault/Cloud Computing/Cloud Computing.md",
     "exch-program-vault/Gatsby Bridging Programme/Motivation Statement/v1.md",
     "ufmg-vault/Cloud Computing",
     "exch-program-vault/Gatsby Bridging Programme/Motivation Statement/Brainstorming.md",
@@ -256,13 +275,11 @@
     "exch-program-vault/Gatsby Bridging Programme/Motivation Statement/Brainstorming/Untitled.md",
     "exch-program-vault/Gatsby Bridging Programme/Motivation Statement/Brainstorming",
     "exch-program-vault/Gatsby Bridging Programme/Motivation Statement",
-    "exch-program-vault/Gatsby Bridging Programme/Gatsby Bridging Programme.md",
     "exch-program-vault/Home.md",
     "exch-program-vault/Université libre de Bruxelles - French Summer Course/Motivation Letter/v2.md",
     "exch-program-vault/Université libre de Bruxelles - French Summer Course/Motivation letter.md",
     "exch-program-vault/Université libre de Bruxelles - French Summer Course/Université libre de Bruxelles - French Summer Course.md",
     "exch-program-vault/Université libre de Bruxelles - French Summer Course/Motivation Letter/v1.md",
-    "ufmg-vault/Workshop CV Internacional/Workshop.md",
     "exch-program-vault/Gatsby Bridging Programme",
     "ufmg-vault/Computação e Sociedade/Computação e Sociedade.md",
     "Readme.md"

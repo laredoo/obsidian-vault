@@ -224,8 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5,
-    "collapsed": true
+    "width": 403.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,7 +237,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38b523c96d952f0a",
+  "active": "037ee2668f1a2cb0",
   "lastOpenFiles": [
     "exch-program-vault/Gatsby Bridging Programme/Motivation Statement/v2.md",
     "exch-program-vault/Gatsby Bridging Programme/Motivation Statement/v3.md",

@@ -76,33 +76,9 @@
               "icon": "lucide-file",
               "title": "v1"
             }
-          },
-          {
-            "id": "60333fbe29e1678d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ufmg-vault/Tese/Tópicos a ser tratados.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tópicos a ser tratados"
-            }
-          },
-          {
-            "id": "c1f35cf107fb422c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -158,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4d4904420f33eef1",
@@ -174,6 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "exch-program-vault/Gatsby Bridging Programme/Motivation Statement/v2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for v2"
             }
           },
           {
@@ -192,11 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "exch-program-vault/Gatsby Bridging Programme/Motivation Statement/v2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from v2"
             }
           },
           {
@@ -252,21 +231,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c1f35cf107fb422c",
+  "active": "38b523c96d952f0a",
   "lastOpenFiles": [
-    "exch-program-vault/Home.md",
-    "ufmg-vault/Home.md",
-    "ufmg-vault/Tese/Tese.md",
+    "exch-program-vault/Gatsby Bridging Programme/Motivation Statement/Motivation Statement.md",
+    "exch-program-vault/Gatsby Bridging Programme/Motivation Statement/v2.md",
+    "exch-program-vault/Gatsby Bridging Programme/Motivation Statement/v1.md",
     "ufmg-vault/Tese/Tópicos a ser tratados.md",
-    "ufmg-vault/Workshop CV Internacional/Workshop.md",
-    "ufmg-vault/Gatsby Bridging Programme.md",
+    "[.md",
+    "exch-program-vault/Gatsby Bridging Programme/Motivation Statement/Brainstorming.md",
     "exch-program-vault/Gatsby Bridging Programme/Gatsby Bridging Programme.md",
     "ufmg-vault/Cloud Computing/Video Assigment.md",
     "ufmg-vault/Cloud Computing/Cloud Computing.md",
-    "exch-program-vault/Gatsby Bridging Programme/Motivation Statement/v1.md",
+    "exch-program-vault/Home.md",
+    "ufmg-vault/Home.md",
+    "ufmg-vault/Tese/Tese.md",
+    "ufmg-vault/Workshop CV Internacional/Workshop.md",
+    "ufmg-vault/Gatsby Bridging Programme.md",
     "ufmg-vault/Cloud Computing",
-    "exch-program-vault/Gatsby Bridging Programme/Motivation Statement/Brainstorming.md",
-    "exch-program-vault/Gatsby Bridging Programme/Motivation Statement/Motivation Statement.md",
     "exch-program-vault/Gatsby Bridging Programme/Motivation Statement/Brainstorming/Untitled.md",
     "exch-program-vault/Gatsby Bridging Programme/Motivation Statement/Brainstorming",
     "exch-program-vault/Gatsby Bridging Programme/Motivation Statement",

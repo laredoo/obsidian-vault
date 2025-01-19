@@ -12,3 +12,5 @@ Please note that the Gatsby Bridging Programme is not an ML/TN summer school. Th
 ## Versions
 
 [[v1]]
+
+[[exch-program-vault/Gatsby Bridging Programme/Motivation Statement/v2|v2]]
